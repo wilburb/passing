@@ -1,2 +1,2 @@
 # passing
-This repository is passing all tests
+[![Build Status](https://travis-ci.org/wilburb/passing.svg?branch=master)](https://travis-ci.org/wilburb/passing)
